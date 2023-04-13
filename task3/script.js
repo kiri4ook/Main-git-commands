@@ -22,6 +22,3 @@ function getSqrtByBinarySearch(number) {
       }
    }
 }
-
-console.log(getSqrtBySequentialSelection(4));
-console.log(getSqrtByBinarySearch(121));
