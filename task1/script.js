@@ -8,8 +8,6 @@ function myFunction(a, b) {
          count++;
       }
    }
-   console.log('Сумма четных чисел в диапазоне равна: ' + sum)
-   console.log('Количество четных чисел в диапазоне равно: ' + count);
 }
 
 myFunction(2, 6)
